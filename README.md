@@ -2,9 +2,11 @@
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/zh-CN/docs/Web/HTML)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-ready-blue)](https://pages.github.com)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-online-brightgreen)](http://47.106.110.251)
 
 一份精心策划的长沙3日旅行攻略，纯静态页面，开箱即用。每天6个景点，覆盖美食、人文、山水，附带可交互的SVG手绘风格路线地图。
+
+> 🔗 **在线预览**：[http://47.106.110.251](http://47.106.110.251)
 
 ## 🗓️ 3日行程概览
 
